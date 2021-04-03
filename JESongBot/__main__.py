@@ -27,7 +27,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Source", url="https://github.com/ImJanindu/JESongBot"
+                        text="Source", url="https://github.com/scprojectslk/JESongBot"
                     ),
                     InlineKeyboardButton(
                         text="Dev", url="https://t.me/Sanu_2021ss"
