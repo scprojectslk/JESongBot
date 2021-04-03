@@ -11,9 +11,9 @@ pm_start_text = """
 Heya [{}](tg://user?id={}), I'm Song Downloader Bot 🎵
 
 Just send me the song name you want to download.
-eg: ```/song Satisfya```
+eg: ```/song Faded```
 
-A bot by @Infinity_BOTs
+A bot by @SCProjectsLK
 """
 
 
@@ -30,7 +30,7 @@ async def start(client, message):
                         text="Source", url="https://github.com/ImJanindu/JESongBot"
                     ),
                     InlineKeyboardButton(
-                        text="Dev", url="https://t.me/ImJanindu"
+                        text="Dev", url="https://t.me/Sanu_2021ss"
                     )
                 ]
             ]
